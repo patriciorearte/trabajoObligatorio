@@ -1,0 +1,142 @@
+img
+{
+    position: absolute;
+    width: 1150px;
+    height: 300px;
+    left: 150px;
+    top: 0px;
+}
+input
+{
+    width:583px; 
+    height: 57px;
+    font-size:30px
+    
+}
+#cajaGrande
+{
+    position: absolute;
+    width: 995px;
+    height: 557px;
+    left: 243px;
+    top: 287px;
+
+    background: #97FFBA;
+    border-radius: 80px;
+}
+#ingresarUsuario
+{
+    position: absolute;
+    width: 514px;
+    height: 134px;
+    left: 463px;
+    top: 306px;
+
+    font-family: Rufina;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 79px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+#usuario
+{
+    position: absolute;
+    width: 313px;
+    height: 77px;
+    left: 320px;
+    top: 501px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+}
+#contraseña
+{
+    position: absolute;
+    width: 326px;
+    height: 78px;
+    left: 326px;
+    top: 665px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+}
+#inputNombre
+{
+    position: absolute;
+    width: 583px;
+    height: 57px;
+    left: 619px;
+    top: 543px;
+
+    background: #EFEFEF;
+}
+#inputContraseña
+{
+
+    position: absolute;
+    width: 583px;
+    height: 57px;
+    left: 619px;
+    top: 702px;
+    
+    background: #EFEFEF;
+}
+#botonAtras
+{
+    position: absolute;
+    width: 220px;
+    height: 78px;
+    left: 0px;
+    top: 946px;
+    font-family: Rufina;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background:#97FFBA ;
+    color: #000000;
+}
+#botonSiguente
+{
+    position: absolute;
+    width: 219px;
+    height: 85px;
+    left: 1221px;
+    top: 939px;
+
+    font-family: Rufina;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background:#97FFBA ;
+    color: #000000;
+}

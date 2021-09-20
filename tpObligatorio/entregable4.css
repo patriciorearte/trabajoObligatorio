@@ -1,0 +1,71 @@
+img
+{
+    position: absolute;
+    width: 1150px;
+    height: 300px;
+    left: 150px;
+    top: 0px;
+}
+#cajaGrande
+{
+    position: absolute;
+    width: 1098px;
+    height: 162px;
+    left: 192px;
+    top: 312px;
+
+    background: #97FFBA;
+    border-radius: 80px;
+}
+#misSolicitudes
+{
+    position: absolute;
+    width: 967px;
+    height: 105px;
+    left: 257px;
+    top: 330px;
+
+    font-family: Rufina;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 79px;
+    text-align: center;
+
+    color: #000000;
+}
+#botonAtras
+{
+    position: absolute;
+    width: 220px;
+    height: 78px;
+    left: 0px;
+    top: 946px;
+    font-family: Rufina;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background:#97FFBA ;
+    color: #000000;
+
+    
+}
+#botonAgregar
+{
+    position: absolute;
+    width: 303px;
+    height: 113px;
+    left: 192px;
+    top: 615px;
+
+    background: #97FFBA;
+    border-radius: 80px;
+    font-family: Rufina;
+    font-size: 48px;
+    line-height: 59px;
+    font-weight: bold;
+}

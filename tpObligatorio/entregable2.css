@@ -1,0 +1,174 @@
+img{
+   
+    position: absolute;
+    width: 1150px;
+    height: 300px;
+    left: 150px;
+    top: 0px;
+}
+input
+{
+    width:583px; 
+    height: 57px;
+    font-size:30px
+    
+}
+#inputNombre
+{
+    position: absolute;
+    width: 583px;
+    height: 57px;
+    left: 554px;
+    top: 436px;
+
+    background: #EFEFEF;
+}
+#inputContraseña
+{
+    position: absolute;
+    width: 583px;
+    height: 57px;
+    left: 554px;
+    top: 547px;
+    
+    background: #EFEFEF;
+}
+#inputCarrera
+{
+    position: absolute;
+    width: 583px;
+    height: 57px;
+    left: 554px;
+    top: 672px;
+
+    background: #EFEFEF;
+}
+#submit
+{
+    position: absolute;
+    width: 389px;
+    height: 57px;
+    left: 508px;
+    top: 798px;
+
+    background: #EFEFEF;
+    border-radius: 80px;
+}
+#cajaGrande
+{
+    position: absolute;
+    width: 1208px;
+    height: 697px;
+    left: 116px;
+    top: 206px;
+
+    background: #97FFBA;
+    border-radius: 80px;
+}
+#registrarUsuario
+{
+    position: absolute;
+    width: 567px;
+    height: 59px;
+    left: 437px;
+    top: 240px;
+    right: 436px;
+
+    font-family: Rufina;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 79px;
+
+    color: #000000;
+}
+#nombre
+{
+    position: absolute;
+    width: 303px;
+    height: 42px;
+    left: 220px;
+    top: 410px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #000000;
+}
+#contraseña
+{
+    position: absolute;
+    width: 108px;
+    height: 42px;
+    left: 220px;
+    top: 528px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    
+    color: #000000;
+}
+
+
+#carrera
+{
+    position: absolute;
+    width: 126px;
+    height: 42px;
+    left: 220px;
+    top: 646px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #000000;
+}
+
+
+
+#botonAtras
+{
+    position: absolute;
+    width: 220px;
+    height: 78px;
+    left: 0px;
+    top: 946px;
+    font-family: Rufina;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background:#97FFBA ;
+    color: #000000;
+}
+#botonGuardar
+{
+    position: absolute;
+    width: 219px;
+    height: 85px;
+    left: 1221px;
+    top: 939px;
+
+    font-family: Rufina;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background:#97FFBA ;
+    color: #000000;
+}
